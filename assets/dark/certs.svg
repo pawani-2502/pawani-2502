@@ -1,24 +1,31 @@
-<svg viewBox="0 0 1000 220" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Microsoft certifications 2026">
+<svg viewBox="0 0 1000 250" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Microsoft certifications 2026">
   <style>
-    :root { --bone: #444444; --rule: #C0C0C0; --muted: #888888; --accent: #555555; }
-    @media (prefers-color-scheme: dark) { :root { --bone: #DDDDDD; --rule: #444444; --muted: #777777; --accent: #AAAAAA; } }
-    .mono { font-family: ui-monospace, "SFMono-Regular", "SF Mono", Menlo, Consolas, "Liberation Mono", monospace; }
-    .rise { opacity: 0; animation: rise .7s cubic-bezier(.2,.7,.2,1) forwards; }
-    @keyframes rise { from { opacity:0;transform:translateY(8px); } to { opacity:1;transform:translateY(0); } }
-    .a1{animation-delay:.1s} .a2{animation-delay:.25s} .a3{animation-delay:.4s}
-    @media (prefers-reduced-motion: reduce) { .rise { animation: none; opacity: 1; } }
-    :root { --bone: #000000; --muted: #000000; --rule: #000000; --accent: #000000; }
-    :root { --bone:#FFFFFF; --muted:#FFFFFF; --rule:#FFFFFF; --accent:#FFFFFF; }
+    :root { --ink:#FFFFFF; --paper:#000000; }
+    .mono { font-family:ui-monospace,"SFMono-Regular","SF Mono",Menlo,Consolas,"Liberation Mono",monospace; }
+    .row { opacity:0; animation:reveal .55s cubic-bezier(.2,.7,.2,1) forwards; }
+    .rule { stroke:var(--ink); stroke-width:1; }
+    .title { fill:var(--ink); font-size:17px; font-weight:700; letter-spacing:.8px; }
+    .copy { fill:var(--ink); font-size:12px; }
+    .meta { fill:var(--ink); font-size:11px; letter-spacing:.4px; }
+    @keyframes reveal { from { opacity:0; } to { opacity:1; } }
+    .r1{animation-delay:.05s}.r2{animation-delay:.15s}
+    @media (prefers-reduced-motion:reduce) { .row { animation:none; opacity:1; } }
   </style>
 
-  <text class="mono rise a1" x="48" y="36" font-size="11" fill="var(--muted)" letter-spacing="2.5">MICROSOFT CERTIFIED - 2026</text>
-  <line class="rise a2" x1="48" y1="56" x2="952" y2="56" stroke="var(--rule)" stroke-width="1" opacity=".5"/>
-
-  <text class="mono rise a2" x="48" y="96" font-size="17" font-weight="700" fill="var(--bone)">01 / AZURE AI APPS AND AGENTS DEVELOPER ASSOCIATE</text>
-  <text class="mono rise a2" x="48" y="122" font-size="13" fill="var(--muted)">Building intelligent applications and agentic workflows on Microsoft Azure.</text>
-
-  <line class="rise a3" x1="48" y1="142" x2="952" y2="142" stroke="var(--rule)" stroke-width="1" opacity=".5"/>
-
-  <text class="mono rise a3" x="48" y="178" font-size="17" font-weight="700" fill="var(--bone)">02 / FABRIC DATA ENGINEER ASSOCIATE</text>
-  <text class="mono rise a3" x="48" y="204" font-size="13" fill="var(--muted)">Data engineering, analytics, and pipelines on Microsoft Fabric.</text>
+  <g class="mono">
+    <g class="row r1" transform="translate(0 20)">
+      <text class="title" x="48" y="24">01 / AZURE AI APPS AND AGENTS DEVELOPER ASSOCIATE</text>
+      <text class="meta" x="48" y="49">Microsoft Certified · 2026</text>
+      <text class="copy" x="48" y="74">Microsoft Certified: Azure AI Apps and Agents Developer Associate (2026)</text>
+      <text class="copy" x="48" y="93">Building intelligent applications and agentic workflows on Microsoft Azure.</text>
+      <line class="rule" x1="48" y1="110" x2="952" y2="110"/>
+    </g>
+    <g class="row r2" transform="translate(0 130)">
+      <text class="title" x="48" y="24">02 / FABRIC DATA ENGINEER ASSOCIATE</text>
+      <text class="meta" x="48" y="49">Microsoft Certified · 2026</text>
+      <text class="copy" x="48" y="74">Microsoft Certified: Fabric Data Engineer Associate (2026)</text>
+      <text class="copy" x="48" y="93">Data engineering, analytics, and pipelines on Microsoft Fabric.</text>
+      <line class="rule" x1="48" y1="110" x2="952" y2="110"/>
+    </g>
+  </g>
 </svg>
