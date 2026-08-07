@@ -15,13 +15,11 @@
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/s03.svg"/><img src="assets/s03.svg" alt="03 — projects"/></picture>
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/projects.svg"/><img src="assets/projects.svg" alt="4 featured projects"/></picture>
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/s04.svg"/><img src="assets/s04.svg" alt="04 — telemetry"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/telemetry.svg"/><img src="assets/telemetry.svg" alt="Development telemetry"/></picture>
 
 <div align="center">
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=pawani-2502&show_icons=true&theme=transparent&hide_border=true&count_private=false&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=00000000"/><img src="https://github-readme-stats.vercel.app/api?username=pawani-2502&show_icons=true&theme=transparent&hide_border=true&count_private=false&title_color=000000&icon_color=000000&text_color=000000&bg_color=00000000" width="48%" alt="GitHub Stats"/></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=pawani-2502&theme=transparent&hide_border=true&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakLabel=ffffff"/><img src="https://github-readme-streak-stats.herokuapp.com/?user=pawani-2502&theme=transparent&hide_border=true&stroke=000000&ring=000000&fire=000000&currStreakLabel=000000" width="48%" alt="GitHub Streak"/></picture>
-
-<br/>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/github-stats.svg"/><img src="assets/github-stats.svg" width="97%" alt="GitHub statistics and repository languages"/></picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=pawani-2502&bg_color=00000000&color=ffffff&line=ffffff&point=ffffff&area_color=ffffff&area=true&hide_border=true&radius=0&custom_title=CONTRIBUTION%20TELEMETRY"/>
