@@ -1,0 +1,22 @@
+<svg viewBox="0 0 1000 320" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Technical stack">
+  <style>
+    :root { --ink:#FFFFFF; --muted:#FFFFFF; }
+    .mono { font-family:ui-monospace,"SFMono-Regular","SF Mono",Menlo,Consolas,"Liberation Mono",monospace; }
+    .row { opacity:0; animation:reveal .5s cubic-bezier(.2,.7,.2,1) forwards; }
+    .label { fill:var(--muted); font-size:11px; letter-spacing:2.5px; }
+    .value { fill:var(--ink); font-size:14px; }
+    @keyframes reveal { from { opacity:0;transform:translateY(6px); } to { opacity:1;transform:translateY(0); } }
+    .r1{animation-delay:.05s}.r2{animation-delay:.12s}.r3{animation-delay:.19s}.r4{animation-delay:.26s}.r5{animation-delay:.33s}.r6{animation-delay:.4s}
+    @media (prefers-reduced-motion:reduce) { .row { animation:none; opacity:1; } }
+  :root { --bone:#FFFFFF; --muted:#FFFFFF; --dim:#FFFFFF; --rule:#FFFFFF; --accent:#FFFFFF; }
+  </style>
+
+  <g class="mono">
+    <g class="row r1"><text class="label" x="48" y="40">FRONTEND</text><text class="value" x="200" y="40">React 19 · Next.js 15 · TypeScript · Tailwind CSS · shadcn/ui · Radix UI · Framer Motion</text></g>
+    <g class="row r2"><text class="label" x="48" y="88">BACKEND</text><text class="value" x="200" y="88">FastAPI · Express 5 · Node.js · Celery · Zod · Pydantic · SQLAlchemy</text></g>
+    <g class="row r3"><text class="label" x="48" y="136">AI / ML</text><text class="value" x="200" y="136">LangGraph · FAISS · sentence-transformers · Google Gemini · Groq · HuggingFace</text></g>
+    <g class="row r4"><text class="label" x="48" y="184">DATA</text><text class="value" x="200" y="184">PostgreSQL · MySQL · Redis · Drizzle ORM · Microsoft Fabric · Azure</text></g>
+    <g class="row r5"><text class="label" x="48" y="232">DEVOPS</text><text class="value" x="200" y="232">Docker · GitHub Actions · Vercel · Railway · Docker Compose</text></g>
+    <g class="row r6"><text class="label" x="48" y="280">LANGUAGES</text><text class="value" x="200" y="280">TypeScript · JavaScript · Python · SQL</text></g>
+  </g>
+</svg>

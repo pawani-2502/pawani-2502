@@ -1,0 +1,16 @@
+<svg viewBox="0 0 1000 120" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Current status and contact">
+  <style>
+    :root { --bone:#FFFFFF; --muted:#FFFFFF; --rule:#FFFFFF; }
+    .mono { font-family: ui-monospace, "SFMono-Regular", "SF Mono", Menlo, Consolas, "Liberation Mono", monospace; }
+    .fade { opacity: 0; animation: fade .8s ease forwards; }
+    @keyframes fade { to { opacity: 1; } }
+    .a1{animation-delay:.2s} .a2{animation-delay:.5s} .a3{animation-delay:.8s}
+    @media (prefers-reduced-motion: reduce) { .fade { animation: none; opacity: 1; } }
+  :root { --bone:#FFFFFF; --muted:#FFFFFF; --dim:#FFFFFF; --rule:#FFFFFF; --accent:#FFFFFF; }
+  </style>
+
+  <line class="fade a1" x1="48" y1="24" x2="952" y2="24" stroke="var(--rule)" stroke-width="1"/>
+  <text class="mono fade a2" x="48" y="58" font-size="14" fill="var(--bone)">open to internships · freelance · collaboration</text>
+  <text class="mono fade a3" x="48" y="88" font-size="13" fill="var(--muted)">pawanisharma16450@gmail.com · github.com/pawani-2502 · SRM University, Chennai</text>
+  <text class="mono fade a3" x="952" y="88" font-size="11" fill="var(--muted)" letter-spacing="2" text-anchor="end">BUILDING · 2026</text>
+</svg>
