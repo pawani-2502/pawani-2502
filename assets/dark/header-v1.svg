@@ -14,7 +14,8 @@
       .draw,.rise,.fade { animation: none; }
       .draw{stroke-dashoffset:0} .rise,.fade{opacity:1}
     }
-    :root { --bone:#FFFFFF; --muted:#FFFFFF; --dim:#FFFFFF; --rule:#FFFFFF; --accent:#FFFFFF; --node-bg:#000000; --core-bg:#000000; }
+    :root { --bone: #000000; --muted: #000000; --dim: #000000; --rule: #000000; --accent: #000000; --node-bg: #FFFFFF; --core-bg: #FFFFFF; }
+    :root { --bone:#FFFFFF; --muted:#FFFFFF; --dim:#FFFFFF; --rule:#FFFFFF; --accent:#FFFFFF; --node-bg:#000000; --core-bg:#000000; --ghost:#FFFFFF; }
   </style>
 
   <line class="draw a1" x1="48" y1="58" x2="952" y2="58" stroke="var(--rule)" stroke-width="1"/>
@@ -24,6 +25,8 @@
   </g>
 
   <g class="rise a2">
+    <animate attributeName="opacity" from="0" to="1" dur="0.9s" begin="0.5s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" additive="sum" from="0 12" to="0 0" dur="0.9s" begin="0.5s" fill="freeze"/>
     <text fill="var(--bone)" class="mono" x="46" y="176" font-size="72" letter-spacing="-2">Pawani Sharma</text>
   </g>
   <g class="fade a3">

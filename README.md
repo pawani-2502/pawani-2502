@@ -1,25 +1,25 @@
 <div align="center">
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pawani-2502/pawani-2502/main/assets/dark/header-v1.svg"/><img src="https://raw.githubusercontent.com/pawani-2502/pawani-2502/main/assets/header-v1.svg" width="100%" alt="Pawani Sharma"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/header-v1.svg"/><img src="assets/header-v1.svg" alt="Pawani Sharma"/></picture>
 
-<a href="mailto:pawanisharma16450@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/EMAIL-0d1117?style=flat-square"/><img src="https://img.shields.io/badge/EMAIL-ffffff?style=flat-square" alt="EMAIL"/></picture></a>
-<a href="https://github.com/pawani-2502"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/GITHUB-0d1117?style=flat-square&logo=github&logoColor=ffffff"/><img src="https://img.shields.io/badge/GITHUB-ffffff?style=flat-square&logo=github&logoColor=000000" alt="GITHUB"/></picture></a>
-<a href="https://www.linkedin.com/in/pawani-sharma"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/LINKEDIN-0d1117?style=flat-square&logo=linkedin&logoColor=ffffff"/><img src="https://img.shields.io/badge/LINKEDIN-ffffff?style=flat-square&logo=linkedin&logoColor=000000" alt="LINKEDIN"/></picture></a>
+<a href="mailto:pawanisharma16450@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/EMAIL-0d1117?style=flat-square"/><img src="https://img.shields.io/badge/EMAIL-ffffff?style=flat-square" alt="Email"/></picture></a>
+<a href="https://github.com/pawani-2502"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/GITHUB-0d1117?style=flat-square&logo=github&logoColor=ffffff"/><img src="https://img.shields.io/badge/GITHUB-ffffff?style=flat-square&logo=github&logoColor=000000" alt="GitHub"/></picture></a>
+<a href="https://www.linkedin.com/in/pawani-sharma"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/LINKEDIN-0d1117?style=flat-square&logo=linkedin&logoColor=ffffff"/><img src="https://img.shields.io/badge/LINKEDIN-ffffff?style=flat-square&logo=linkedin&logoColor=000000" alt="LinkedIn"/></picture></a>
 
 </div>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pawani-2502/pawani-2502/main/assets/dark/s01.svg"/><img src="https://raw.githubusercontent.com/pawani-2502/pawani-2502/main/assets/s01.svg" width="100%" alt="01 — whoami"/></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pawani-2502/pawani-2502/main/assets/dark/whoami.svg"/><img src="https://raw.githubusercontent.com/pawani-2502/pawani-2502/main/assets/whoami.svg" width="100%" alt="About Pawani"/></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pawani-2502/pawani-2502/main/assets/dark/s02.svg"/><img src="https://raw.githubusercontent.com/pawani-2502/pawani-2502/main/assets/s02.svg" width="100%" alt="02 — certifications"/></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pawani-2502/pawani-2502/main/assets/dark/certs.svg"/><img src="https://raw.githubusercontent.com/pawani-2502/pawani-2502/main/assets/certs.svg" width="100%" alt="Microsoft certifications"/></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pawani-2502/pawani-2502/main/assets/dark/s03.svg"/><img src="https://raw.githubusercontent.com/pawani-2502/pawani-2502/main/assets/s03.svg" width="100%" alt="03 — projects"/></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pawani-2502/pawani-2502/main/assets/dark/projects.svg"/><img src="https://raw.githubusercontent.com/pawani-2502/pawani-2502/main/assets/projects.svg" width="100%" alt="4 featured projects"/></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pawani-2502/pawani-2502/main/assets/dark/s04.svg"/><img src="https://raw.githubusercontent.com/pawani-2502/pawani-2502/main/assets/s04.svg" width="100%" alt="04 — telemetry"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/s01.svg"/><img src="assets/s01.svg" alt="01 — whoami"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/whoami.svg"/><img src="assets/whoami.svg" alt="About Pawani"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/s02.svg"/><img src="assets/s02.svg" alt="02 — certifications"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/certs.svg"/><img src="assets/certs.svg" alt="Microsoft certifications"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/s03.svg"/><img src="assets/s03.svg" alt="03 — projects"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/projects.svg"/><img src="assets/projects.svg" alt="4 featured projects"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/s04.svg"/><img src="assets/s04.svg" alt="04 — telemetry"/></picture>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=pawani-2502&show_icons=true&theme=transparent&hide_border=true&count_private=false&title_color=000000&icon_color=000000&text_color=000000&bg_color=00000000" width="48%" alt="GitHub Stats"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pawani-2502&theme=transparent&hide_border=true&stroke=000000&ring=000000&fire=000000&currStreakLabel=000000" width="48%" alt="GitHub Streak"/>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=pawani-2502&show_icons=true&theme=transparent&hide_border=true&count_private=false&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=00000000"/><img src="https://github-readme-stats.vercel.app/api?username=pawani-2502&show_icons=true&theme=transparent&hide_border=true&count_private=false&title_color=000000&icon_color=000000&text_color=000000&bg_color=00000000" width="48%" alt="GitHub Stats"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=pawani-2502&theme=transparent&hide_border=true&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakLabel=ffffff"/><img src="https://github-readme-streak-stats.herokuapp.com/?user=pawani-2502&theme=transparent&hide_border=true&stroke=000000&ring=000000&fire=000000&currStreakLabel=000000" width="48%" alt="GitHub Streak"/></picture>
 
 <br/>
 
@@ -30,9 +30,9 @@
 
 </div>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pawani-2502/pawani-2502/main/assets/dark/s05.svg"/><img src="https://raw.githubusercontent.com/pawani-2502/pawani-2502/main/assets/s05.svg" width="100%" alt="05 — stack"/></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pawani-2502/pawani-2502/main/assets/dark/stack.svg"/><img src="https://raw.githubusercontent.com/pawani-2502/pawani-2502/main/assets/stack.svg" width="100%" alt="Technical stack"/></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pawani-2502/pawani-2502/main/assets/dark/s06.svg"/><img src="https://raw.githubusercontent.com/pawani-2502/pawani-2502/main/assets/s06.svg" width="100%" alt="06 — connect"/></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pawani-2502/pawani-2502/main/assets/dark/footer.svg"/><img src="https://raw.githubusercontent.com/pawani-2502/pawani-2502/main/assets/footer.svg" width="100%" alt="Current status"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/s05.svg"/><img src="assets/s05.svg" alt="05 — stack"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/stack.svg"/><img src="assets/stack.svg" alt="Technical stack"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/s06.svg"/><img src="assets/s06.svg" alt="06 — connect"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/footer.svg"/><img src="assets/footer.svg" alt="Current status"/></picture>
 
 <!-- one responsive picture per visual; no duplicate light/dark rendering -->
